@@ -64,6 +64,10 @@ JSON         8 mins          ▒░░░░░░░░░░░░░░░░
 5. 🗣 Commented on [#9](https://github.com/krishdevdb/reseter.css/issues/9) in [krishdevdb/reseter.css](https://github.com/krishdevdb/reseter.css)
 <!--END_SECTION:activity-->
 
+<h2 align="center" id="joke">🤣</h2>
+
+<img align="center" alt="A Joke For You" src="https://readme-jokes.vercel.app/api">
+
 <h2 align="center" id="music"> 🎶 Recently Played Music </h2>
 
 <a href="https://spotify-github-profile.vercel.app/api/view.svg?uid=s5rojvf8u4ywr2pap5s9es1bg&redirect=true"><img align="center" src="https://spotify-github-profile.vercel.app/api/view.svg?uid=s5rojvf8u4ywr2pap5s9es1bg&cover_image=true&theme=compact"></a>
