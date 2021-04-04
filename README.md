@@ -64,11 +64,11 @@ HTML         41 mins         ▓░░░░░░░░░░░░░░░░
 <h2 align="center" id="activity"> ⚡ Recent Activity </h2>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#154](https://github.com/matiassingers/awesome-readme/pull/154) in [matiassingers/awesome-readme](https://github.com/matiassingers/awesome-readme)
-2. 🗣 Commented on [#2215](https://github.com/github/explore/issues/2215) in [github/explore](https://github.com/github/explore)
-3. 🗣 Commented on [#2237](https://github.com/github/explore/issues/2237) in [github/explore](https://github.com/github/explore)
-4. 💪 Opened PR [#40](https://github.com/4site-interactive-studios/engrid-scripts/pull/40) in [4site-interactive-studios/engrid-scripts](https://github.com/4site-interactive-studios/engrid-scripts)
-5. 🎉 Merged PR [#12](https://github.com/krishdevdb/reseter.css/pull/12) in [krishdevdb/reseter.css](https://github.com/krishdevdb/reseter.css)
+1. 💪 Opened PR [#2255](https://github.com/github/explore/pull/2255) in [github/explore](https://github.com/github/explore)
+2. 💪 Opened PR [#154](https://github.com/matiassingers/awesome-readme/pull/154) in [matiassingers/awesome-readme](https://github.com/matiassingers/awesome-readme)
+3. 🗣 Commented on [#2215](https://github.com/github/explore/issues/2215) in [github/explore](https://github.com/github/explore)
+4. 🗣 Commented on [#2237](https://github.com/github/explore/issues/2237) in [github/explore](https://github.com/github/explore)
+5. 💪 Opened PR [#40](https://github.com/4site-interactive-studios/engrid-scripts/pull/40) in [4site-interactive-studios/engrid-scripts](https://github.com/4site-interactive-studios/engrid-scripts)
 <!--END_SECTION:activity-->
 
 <h2 align="center" id="joke">🤣</h2>
