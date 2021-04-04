@@ -38,7 +38,7 @@
 
 <div align="center">
 <h2 id="streak">🔥GitHub Streak</h2>
-<img src="http://github-readme-streak-stats.herokuapp.com/test/?user=krishdevdb&hide_border=true">
+<img src="http://github-readme-streak-stats.herokuapp.com/test/?user=krishdevdb">
 <br>
 </div>
 
