@@ -64,11 +64,11 @@ Markdown     26 mins         █▓░░░░░░░░░░░░░░░
 <h2 align="center" id="activity"> ⚡ Recent Activity </h2>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#15](https://github.com/krishdevdb/reseter.css/issues/15) in [krishdevdb/reseter.css](https://github.com/krishdevdb/reseter.css)
-2. 🗣 Commented on [#15](https://github.com/krishdevdb/reseter.css/issues/15) in [krishdevdb/reseter.css](https://github.com/krishdevdb/reseter.css)
-3. 🗣 Commented on [#15](https://github.com/krishdevdb/reseter.css/issues/15) in [krishdevdb/reseter.css](https://github.com/krishdevdb/reseter.css)
-4. 🎉 Merged PR [#15](https://github.com/krishdevdb/reseter.css/pull/15) in [krishdevdb/reseter.css](https://github.com/krishdevdb/reseter.css)
-5. 🗣 Commented on [#12](https://github.com/krishdevdb/reseter.css/issues/12) in [krishdevdb/reseter.css](https://github.com/krishdevdb/reseter.css)
+1. 🗣 Commented on [#154](https://github.com/matiassingers/awesome-readme/issues/154) in [matiassingers/awesome-readme](https://github.com/matiassingers/awesome-readme)
+2. 🗣 Commented on [#2266](https://github.com/github/explore/issues/2266) in [github/explore](https://github.com/github/explore)
+3. ❌ Closed PR [#40](https://github.com/4site-interactive-studios/engrid-scripts/pull/40) in [4site-interactive-studios/engrid-scripts](https://github.com/4site-interactive-studios/engrid-scripts)
+4. 🗣 Commented on [#2266](https://github.com/github/explore/issues/2266) in [github/explore](https://github.com/github/explore)
+5. 🗣 Commented on [#15](https://github.com/krishdevdb/reseter.css/issues/15) in [krishdevdb/reseter.css](https://github.com/krishdevdb/reseter.css)
 <!--END_SECTION:activity-->
 
 <h2 align="center" id="joke">🤣</h2>
