@@ -64,9 +64,9 @@ JSON         33 mins         ██▒░░░░░░░░░░░░░░
 <h2 align="center" id="activity"> ⚡ Recent Activity </h2>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#20](https://github.com/krishdevdb/reseter.css/pull/20) in [krishdevdb/reseter.css](https://github.com/krishdevdb/reseter.css)
-2. 🗣 Commented on [#19](https://github.com/krishdevdb/reseter.css/issues/19) in [krishdevdb/reseter.css](https://github.com/krishdevdb/reseter.css)
-3. 🗣 Commented on [#19](https://github.com/krishdevdb/reseter.css/issues/19) in [krishdevdb/reseter.css](https://github.com/krishdevdb/reseter.css)
+1. 🎉 Merged PR [#21](https://github.com/krishdevdb/reseter.css/pull/21) in [krishdevdb/reseter.css](https://github.com/krishdevdb/reseter.css)
+2. 🗣 Commented on [#16](https://github.com/krishdevdb/reseter.css/issues/16) in [krishdevdb/reseter.css](https://github.com/krishdevdb/reseter.css)
+3. 🎉 Merged PR [#20](https://github.com/krishdevdb/reseter.css/pull/20) in [krishdevdb/reseter.css](https://github.com/krishdevdb/reseter.css)
 4. 🗣 Commented on [#19](https://github.com/krishdevdb/reseter.css/issues/19) in [krishdevdb/reseter.css](https://github.com/krishdevdb/reseter.css)
 5. 🗣 Commented on [#19](https://github.com/krishdevdb/reseter.css/issues/19) in [krishdevdb/reseter.css](https://github.com/krishdevdb/reseter.css)
 <!--END_SECTION:activity-->
