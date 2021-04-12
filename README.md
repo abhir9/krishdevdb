@@ -64,11 +64,11 @@ Markdown     1 hr 4 mins     ██▓░░░░░░░░░░░░░░
 <h2 align="center" id="activity"> ⚡ Recent Activity </h2>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#20](https://github.com/eciavatta/caronte/pull/20) in [eciavatta/caronte](https://github.com/eciavatta/caronte)
-2. 🗣 Commented on [#2276](https://github.com/github/explore/issues/2276) in [github/explore](https://github.com/github/explore)
-3. 🗣 Commented on [#19](https://github.com/krishdevdb/reseter.css/issues/19) in [krishdevdb/reseter.css](https://github.com/krishdevdb/reseter.css)
-4. 💪 Opened PR [#24](https://github.com/krishdevdb/reseter.css/pull/24) in [krishdevdb/reseter.css](https://github.com/krishdevdb/reseter.css)
-5. 🎉 Merged PR [#23](https://github.com/krishdevdb/reseter.css/pull/23) in [krishdevdb/reseter.css](https://github.com/krishdevdb/reseter.css)
+1. 💪 Opened PR [#938](https://github.com/ContributorCovenant/contributor_covenant/pull/938) in [ContributorCovenant/contributor_covenant](https://github.com/ContributorCovenant/contributor_covenant)
+2. 💪 Opened PR [#21](https://github.com/eciavatta/caronte/pull/21) in [eciavatta/caronte](https://github.com/eciavatta/caronte)
+3. 🎉 Merged PR [#1](https://github.com/krishdevdb/caronte/pull/1) in [krishdevdb/caronte](https://github.com/krishdevdb/caronte)
+4. 💪 Opened PR [#1](https://github.com/krishdevdb/caronte/pull/1) in [krishdevdb/caronte](https://github.com/krishdevdb/caronte)
+5. 💪 Opened PR [#20](https://github.com/eciavatta/caronte/pull/20) in [eciavatta/caronte](https://github.com/eciavatta/caronte)
 <!--END_SECTION:activity-->
 
 <h2 align="center" id="joke">🤣</h2>
