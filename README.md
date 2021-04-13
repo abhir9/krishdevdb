@@ -64,11 +64,11 @@ LESS       57 mins         ██▓░░░░░░░░░░░░░░�
 <h2 align="center" id="activity"> ⚡ Recent Activity </h2>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2279](https://github.com/github/explore/issues/2279) in [github/explore](https://github.com/github/explore)
-2. ❌ Closed PR [#21](https://github.com/eciavatta/caronte/pull/21) in [eciavatta/caronte](https://github.com/eciavatta/caronte)
-3. 🗣 Commented on [#2276](https://github.com/github/explore/issues/2276) in [github/explore](https://github.com/github/explore)
-4. 🗣 Commented on [#21](https://github.com/eciavatta/caronte/issues/21) in [eciavatta/caronte](https://github.com/eciavatta/caronte)
-5. 🎉 Merged PR [#2](https://github.com/krishdevdb/css-reset-comparision/pull/2) in [krishdevdb/css-reset-comparision](https://github.com/krishdevdb/css-reset-comparision)
+1. 🎉 Merged PR [#5](https://github.com/krishdevdb/css-reset-comparision/pull/5) in [krishdevdb/css-reset-comparision](https://github.com/krishdevdb/css-reset-comparision)
+2. ❗️ Closed issue [#3](https://github.com/krishdevdb/css-reset-comparision/issues/3) in [krishdevdb/css-reset-comparision](https://github.com/krishdevdb/css-reset-comparision)
+3. 💪 Opened PR [#5](https://github.com/krishdevdb/css-reset-comparision/pull/5) in [krishdevdb/css-reset-comparision](https://github.com/krishdevdb/css-reset-comparision)
+4. 🎉 Merged PR [#4](https://github.com/krishdevdb/css-reset-comparision/pull/4) in [krishdevdb/css-reset-comparision](https://github.com/krishdevdb/css-reset-comparision)
+5. 🗣 Commented on [#3](https://github.com/krishdevdb/css-reset-comparision/issues/3) in [krishdevdb/css-reset-comparision](https://github.com/krishdevdb/css-reset-comparision)
 <!--END_SECTION:activity-->
 
 <h2 align="center" id="joke">🤣</h2>
