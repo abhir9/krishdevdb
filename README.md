@@ -64,11 +64,11 @@ Python       1 hr 5 mins     ██▒░░░░░░░░░░░░░░
 <h2 align="center" id="activity"> ⚡ Recent Activity </h2>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#25](https://github.com/krishdevdb/reseter.css/issues/25) in [krishdevdb/reseter.css](https://github.com/krishdevdb/reseter.css)
-2. ❗️ Closed issue [#25](https://github.com/krishdevdb/reseter.css/issues/25) in [krishdevdb/reseter.css](https://github.com/krishdevdb/reseter.css)
-3. 🗣 Commented on [#25](https://github.com/krishdevdb/reseter.css/issues/25) in [krishdevdb/reseter.css](https://github.com/krishdevdb/reseter.css)
-4. 🗣 Commented on [#2277](https://github.com/github/explore/issues/2277) in [github/explore](https://github.com/github/explore)
-5. 🎉 Merged PR [#26](https://github.com/krishdevdb/reseter.css/pull/26) in [krishdevdb/reseter.css](https://github.com/krishdevdb/reseter.css)
+1. 🗣 Commented on [#2281](https://github.com/github/explore/issues/2281) in [github/explore](https://github.com/github/explore)
+2. 🗣 Commented on [#25](https://github.com/krishdevdb/reseter.css/issues/25) in [krishdevdb/reseter.css](https://github.com/krishdevdb/reseter.css)
+3. ❗️ Closed issue [#25](https://github.com/krishdevdb/reseter.css/issues/25) in [krishdevdb/reseter.css](https://github.com/krishdevdb/reseter.css)
+4. 🗣 Commented on [#25](https://github.com/krishdevdb/reseter.css/issues/25) in [krishdevdb/reseter.css](https://github.com/krishdevdb/reseter.css)
+5. 🗣 Commented on [#2277](https://github.com/github/explore/issues/2277) in [github/explore](https://github.com/github/explore)
 <!--END_SECTION:activity-->
 
 <h2 align="center" id="joke">🤣</h2>
