@@ -64,11 +64,11 @@ Markdown     1 hr 16 mins    ██░░░░░░░░░░░░░░░
 <h2 align="center" id="activity"> ⚡ Recent Activity </h2>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2282](https://github.com/github/explore/issues/2282) in [github/explore](https://github.com/github/explore)
-2. 🗣 Commented on [#2281](https://github.com/github/explore/issues/2281) in [github/explore](https://github.com/github/explore)
-3. 🗣 Commented on [#25](https://github.com/krishdevdb/reseter.css/issues/25) in [krishdevdb/reseter.css](https://github.com/krishdevdb/reseter.css)
-4. ❗️ Closed issue [#25](https://github.com/krishdevdb/reseter.css/issues/25) in [krishdevdb/reseter.css](https://github.com/krishdevdb/reseter.css)
-5. 🗣 Commented on [#25](https://github.com/krishdevdb/reseter.css/issues/25) in [krishdevdb/reseter.css](https://github.com/krishdevdb/reseter.css)
+1. 🗣 Commented on [#2284](https://github.com/github/explore/issues/2284) in [github/explore](https://github.com/github/explore)
+2. 🗣 Commented on [#2282](https://github.com/github/explore/issues/2282) in [github/explore](https://github.com/github/explore)
+3. 🗣 Commented on [#2281](https://github.com/github/explore/issues/2281) in [github/explore](https://github.com/github/explore)
+4. 🗣 Commented on [#25](https://github.com/krishdevdb/reseter.css/issues/25) in [krishdevdb/reseter.css](https://github.com/krishdevdb/reseter.css)
+5. ❗️ Closed issue [#25](https://github.com/krishdevdb/reseter.css/issues/25) in [krishdevdb/reseter.css](https://github.com/krishdevdb/reseter.css)
 <!--END_SECTION:activity-->
 
 <h2 align="center" id="joke">🤣</h2>
