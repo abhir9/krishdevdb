@@ -65,11 +65,11 @@ Sass         33 mins         ▓░░░░░░░░░░░░░░░░
 <h2 align="center" id="activity"> ⚡ Recent Activity </h2>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#31](https://github.com/krishdevdb/reseter.css/pull/31) in [krishdevdb/reseter.css](https://github.com/krishdevdb/reseter.css)
-2. ❗️ Closed issue [#19](https://github.com/krishdevdb/reseter.css/issues/19) in [krishdevdb/reseter.css](https://github.com/krishdevdb/reseter.css)
-3. 🗣 Commented on [#19](https://github.com/krishdevdb/reseter.css/issues/19) in [krishdevdb/reseter.css](https://github.com/krishdevdb/reseter.css)
-4. 🎉 Merged PR [#30](https://github.com/krishdevdb/reseter.css/pull/30) in [krishdevdb/reseter.css](https://github.com/krishdevdb/reseter.css)
-5. 🗣 Commented on [#30](https://github.com/krishdevdb/reseter.css/issues/30) in [krishdevdb/reseter.css](https://github.com/krishdevdb/reseter.css)
+1. ❌ Closed PR [#154](https://github.com/matiassingers/awesome-readme/pull/154) in [matiassingers/awesome-readme](https://github.com/matiassingers/awesome-readme)
+2. ❌ Closed PR [#942](https://github.com/MunGell/awesome-for-beginners/pull/942) in [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners)
+3. 🎉 Merged PR [#31](https://github.com/krishdevdb/reseter.css/pull/31) in [krishdevdb/reseter.css](https://github.com/krishdevdb/reseter.css)
+4. ❗️ Closed issue [#19](https://github.com/krishdevdb/reseter.css/issues/19) in [krishdevdb/reseter.css](https://github.com/krishdevdb/reseter.css)
+5. 🗣 Commented on [#19](https://github.com/krishdevdb/reseter.css/issues/19) in [krishdevdb/reseter.css](https://github.com/krishdevdb/reseter.css)
 <!--END_SECTION:activity-->
 
 <h2 align="center" id="joke">🤣</h2>
