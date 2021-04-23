@@ -65,11 +65,11 @@ SCSS         28 mins         ▒░░░░░░░░░░░░░░░░
 <h2 align="center" id="activity"> ⚡ Recent Activity </h2>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#14042](https://github.com/cdnjs/cdnjs/issues/14042) in [cdnjs/cdnjs](https://github.com/cdnjs/cdnjs)
-2. ❌ Closed PR [#154](https://github.com/matiassingers/awesome-readme/pull/154) in [matiassingers/awesome-readme](https://github.com/matiassingers/awesome-readme)
-3. ❌ Closed PR [#942](https://github.com/MunGell/awesome-for-beginners/pull/942) in [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners)
-4. 🎉 Merged PR [#31](https://github.com/krishdevdb/reseter.css/pull/31) in [krishdevdb/reseter.css](https://github.com/krishdevdb/reseter.css)
-5. ❗️ Closed issue [#19](https://github.com/krishdevdb/reseter.css/issues/19) in [krishdevdb/reseter.css](https://github.com/krishdevdb/reseter.css)
+1. 🗣 Commented on [#14042](https://github.com/cdnjs/cdnjs/issues/14042) in [cdnjs/cdnjs](https://github.com/cdnjs/cdnjs)
+2. ❗️ Opened issue [#14042](https://github.com/cdnjs/cdnjs/issues/14042) in [cdnjs/cdnjs](https://github.com/cdnjs/cdnjs)
+3. ❌ Closed PR [#154](https://github.com/matiassingers/awesome-readme/pull/154) in [matiassingers/awesome-readme](https://github.com/matiassingers/awesome-readme)
+4. ❌ Closed PR [#942](https://github.com/MunGell/awesome-for-beginners/pull/942) in [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners)
+5. 🎉 Merged PR [#31](https://github.com/krishdevdb/reseter.css/pull/31) in [krishdevdb/reseter.css](https://github.com/krishdevdb/reseter.css)
 <!--END_SECTION:activity-->
 
 <h2 align="center" id="joke">🤣</h2>
