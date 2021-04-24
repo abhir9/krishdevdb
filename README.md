@@ -65,11 +65,11 @@ Sass         28 mins         ▓░░░░░░░░░░░░░░░░
 <h2 align="center" id="activity"> ⚡ Recent Activity </h2>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#14042](https://github.com/cdnjs/cdnjs/issues/14042) in [cdnjs/cdnjs](https://github.com/cdnjs/cdnjs)
-2. 🗣 Commented on [#14042](https://github.com/cdnjs/cdnjs/issues/14042) in [cdnjs/cdnjs](https://github.com/cdnjs/cdnjs)
-3. ❗️ Opened issue [#14042](https://github.com/cdnjs/cdnjs/issues/14042) in [cdnjs/cdnjs](https://github.com/cdnjs/cdnjs)
-4. ❌ Closed PR [#154](https://github.com/matiassingers/awesome-readme/pull/154) in [matiassingers/awesome-readme](https://github.com/matiassingers/awesome-readme)
-5. ❌ Closed PR [#942](https://github.com/MunGell/awesome-for-beginners/pull/942) in [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners)
+1. 🗣 Commented on [#32](https://github.com/krishdevdb/reseter.css/issues/32) in [krishdevdb/reseter.css](https://github.com/krishdevdb/reseter.css)
+2. 🎉 Merged PR [#35](https://github.com/krishdevdb/reseter.css/pull/35) in [krishdevdb/reseter.css](https://github.com/krishdevdb/reseter.css)
+3. ❗️ Closed issue [#34](https://github.com/krishdevdb/reseter.css/issues/34) in [krishdevdb/reseter.css](https://github.com/krishdevdb/reseter.css)
+4. 🗣 Commented on [#34](https://github.com/krishdevdb/reseter.css/issues/34) in [krishdevdb/reseter.css](https://github.com/krishdevdb/reseter.css)
+5. 🗣 Commented on [#34](https://github.com/krishdevdb/reseter.css/issues/34) in [krishdevdb/reseter.css](https://github.com/krishdevdb/reseter.css)
 <!--END_SECTION:activity-->
 
 <h2 align="center" id="joke">🤣</h2>
