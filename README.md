@@ -65,10 +65,10 @@ SCSS         26 mins         ▓░░░░░░░░░░░░░░░░
 <h2 align="center" id="activity"> ⚡ Recent Activity </h2>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#32](https://github.com/krishdevdb/reseter.css/issues/32) in [krishdevdb/reseter.css](https://github.com/krishdevdb/reseter.css)
-2. 🎉 Merged PR [#35](https://github.com/krishdevdb/reseter.css/pull/35) in [krishdevdb/reseter.css](https://github.com/krishdevdb/reseter.css)
-3. ❗️ Closed issue [#34](https://github.com/krishdevdb/reseter.css/issues/34) in [krishdevdb/reseter.css](https://github.com/krishdevdb/reseter.css)
-4. 🗣 Commented on [#34](https://github.com/krishdevdb/reseter.css/issues/34) in [krishdevdb/reseter.css](https://github.com/krishdevdb/reseter.css)
+1. 💪 Opened PR [#50](https://github.com/andy-piccalilli/npm-uninstall-facebook/pull/50) in [andy-piccalilli/npm-uninstall-facebook](https://github.com/andy-piccalilli/npm-uninstall-facebook)
+2. 🗣 Commented on [#32](https://github.com/krishdevdb/reseter.css/issues/32) in [krishdevdb/reseter.css](https://github.com/krishdevdb/reseter.css)
+3. 🎉 Merged PR [#35](https://github.com/krishdevdb/reseter.css/pull/35) in [krishdevdb/reseter.css](https://github.com/krishdevdb/reseter.css)
+4. ❗️ Closed issue [#34](https://github.com/krishdevdb/reseter.css/issues/34) in [krishdevdb/reseter.css](https://github.com/krishdevdb/reseter.css)
 5. 🗣 Commented on [#34](https://github.com/krishdevdb/reseter.css/issues/34) in [krishdevdb/reseter.css](https://github.com/krishdevdb/reseter.css)
 <!--END_SECTION:activity-->
 
