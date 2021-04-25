@@ -65,11 +65,11 @@ SCSS         26 mins         ▓░░░░░░░░░░░░░░░░
 <h2 align="center" id="activity"> ⚡ Recent Activity </h2>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#51](https://github.com/andy-piccalilli/npm-uninstall-facebook/pull/51) in [andy-piccalilli/npm-uninstall-facebook](https://github.com/andy-piccalilli/npm-uninstall-facebook)
-2. 💪 Opened PR [#50](https://github.com/andy-piccalilli/npm-uninstall-facebook/pull/50) in [andy-piccalilli/npm-uninstall-facebook](https://github.com/andy-piccalilli/npm-uninstall-facebook)
-3. 🗣 Commented on [#32](https://github.com/krishdevdb/reseter.css/issues/32) in [krishdevdb/reseter.css](https://github.com/krishdevdb/reseter.css)
-4. 🎉 Merged PR [#35](https://github.com/krishdevdb/reseter.css/pull/35) in [krishdevdb/reseter.css](https://github.com/krishdevdb/reseter.css)
-5. ❗️ Closed issue [#34](https://github.com/krishdevdb/reseter.css/issues/34) in [krishdevdb/reseter.css](https://github.com/krishdevdb/reseter.css)
+1. 🗣 Commented on [#1](https://github.com/admxxi/phpStorm/issues/1) in [admxxi/phpStorm](https://github.com/admxxi/phpStorm)
+2. ❗️ Opened issue [#1](https://github.com/admxxi/phpStorm/issues/1) in [admxxi/phpStorm](https://github.com/admxxi/phpStorm)
+3. 💪 Opened PR [#51](https://github.com/andy-piccalilli/npm-uninstall-facebook/pull/51) in [andy-piccalilli/npm-uninstall-facebook](https://github.com/andy-piccalilli/npm-uninstall-facebook)
+4. 💪 Opened PR [#50](https://github.com/andy-piccalilli/npm-uninstall-facebook/pull/50) in [andy-piccalilli/npm-uninstall-facebook](https://github.com/andy-piccalilli/npm-uninstall-facebook)
+5. 🗣 Commented on [#32](https://github.com/krishdevdb/reseter.css/issues/32) in [krishdevdb/reseter.css](https://github.com/krishdevdb/reseter.css)
 <!--END_SECTION:activity-->
 
 <h2 align="center" id="joke">🤣</h2>
