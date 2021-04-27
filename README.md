@@ -47,7 +47,6 @@
 
 <!-- BLOG-POSTS:START -->
 - [Use Reseter.css Instead Of Normalize and Reset.css. To Improve Cross Browser Experience.](https://krishdevdb.hashnode.dev/use-resetercss)
-- [Use Reseter.css Instead Of Normalize and Reset.css. To Improve Cross Browser Experience.](https://dev.to/krishdevdb/use-reseter-css-instead-of-normalize-and-reset-css-to-improve-cross-browser-experience-4113)
 <!-- BLOG-POSTS:END -->
 
 <h2 align="center" id="breakdown"> 📈 Weekly Development Breakdown </h2>
