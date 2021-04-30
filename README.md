@@ -46,6 +46,7 @@
 <h2 align="center" id="posts"> 📕 Blog Posts </h2>
 
 <!-- BLOG-POSTS:START -->
+- [Use Reseter.css Instead Of Normalize and Reset.css. To Improve Cross Browser Experience.](https://dev.to/krishdevdb/use-reseter-css-instead-of-normalize-and-reset-css-to-improve-cross-browser-experience-13gn)
 - [Use Reseter.css Instead Of Normalize and Reset.css. To Improve Cross Browser Experience.](https://krishdevdb.hashnode.dev/use-resetercss)
 <!-- BLOG-POSTS:END -->
 
