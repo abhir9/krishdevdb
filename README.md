@@ -65,11 +65,11 @@ CSS          2 mins          ▓░░░░░░░░░░░░░░░░
 <h2 align="center" id="activity"> ⚡ Recent Activity </h2>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#36](https://github.com/krishdevdb/reseter.css/pull/36) in [krishdevdb/reseter.css](https://github.com/krishdevdb/reseter.css)
-2. 🗣 Commented on [#36](https://github.com/krishdevdb/reseter.css/issues/36) in [krishdevdb/reseter.css](https://github.com/krishdevdb/reseter.css)
-3. 💪 Opened PR [#2309](https://github.com/github/explore/pull/2309) in [github/explore](https://github.com/github/explore)
-4. 🗣 Commented on [#1](https://github.com/admxxi/phpStorm/issues/1) in [admxxi/phpStorm](https://github.com/admxxi/phpStorm)
-5. ❗️ Opened issue [#1](https://github.com/admxxi/phpStorm/issues/1) in [admxxi/phpStorm](https://github.com/admxxi/phpStorm)
+1. ❗️ Opened issue [#37](https://github.com/krishdevdb/reseter.css/issues/37) in [krishdevdb/reseter.css](https://github.com/krishdevdb/reseter.css)
+2. 🎉 Merged PR [#36](https://github.com/krishdevdb/reseter.css/pull/36) in [krishdevdb/reseter.css](https://github.com/krishdevdb/reseter.css)
+3. 🗣 Commented on [#36](https://github.com/krishdevdb/reseter.css/issues/36) in [krishdevdb/reseter.css](https://github.com/krishdevdb/reseter.css)
+4. 💪 Opened PR [#2309](https://github.com/github/explore/pull/2309) in [github/explore](https://github.com/github/explore)
+5. 🗣 Commented on [#1](https://github.com/admxxi/phpStorm/issues/1) in [admxxi/phpStorm](https://github.com/admxxi/phpStorm)
 <!--END_SECTION:activity-->
 
 <h2 align="center" id="joke">🤣</h2>
