@@ -46,8 +46,8 @@
 <h2 align="center" id="posts"> 📕 Blog Posts </h2>
 
 <!-- BLOG-POSTS:START -->
+- [Answer by Krish Dev DB for CSS Reset for Chrome](https://stackoverflow.com/questions/12936753/css-reset-for-chrome/67345930#67345930)
 - [Answer by Krish Dev DB for Ultimate css reset](https://stackoverflow.com/questions/48488800/ultimate-css-reset/67331930#67331930)
-- [Use Reseter.css Instead Of Normalize and Reset.css. To Improve Cross Browser Experience.](https://dev.to/krishdevdb/use-reseter-css-instead-of-normalize-and-reset-css-to-improve-cross-browser-experience-13gn)
 <!-- BLOG-POSTS:END -->
 
 <h2 align="center" id="breakdown"> 📈 Weekly Development Breakdown </h2>
