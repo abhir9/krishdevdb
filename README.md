@@ -72,10 +72,6 @@ JSON       11 mins         █▓░░░░░░░░░░░░░░░�
 5. 🗣 Commented on [#14042](https://github.com/cdnjs/cdnjs/issues/14042) in [cdnjs/cdnjs](https://github.com/cdnjs/cdnjs)
 <!--END_SECTION:activity-->
 
-<h2 align="center" id="joke">🤣</h2>
+<h2 align="center" id="music"> ⚡ Contribution Activity </h2>
 
-<img align="center" alt="A Joke For You" src="https://readme-jokes.vercel.app/api">
-
-<h2 align="center" id="music"> 🎶 Recently Played Music </h2>
-
-<a href="https://spotify-github-profile.vercel.app/api/view.svg?uid=s5rojvf8u4ywr2pap5s9es1bg&redirect=true"><img align="center" src="https://spotify-github-profile.vercel.app/api/view.svg?uid=s5rojvf8u4ywr2pap5s9es1bg&cover_image=true&theme=compact"></a>
+<img align="center" src="https://activity-graph.herokuapp.com/graph?username=krishdevdb&theme=xcode&hide_border=true&area=true&point=transparent">
