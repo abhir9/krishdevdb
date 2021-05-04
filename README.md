@@ -1,5 +1,5 @@
-<div align="center">
-<p>
+<div>
+<p align="center">
 <a href="#projects">
 <img src="https://img.shields.io/github/stars/krishdevdb?affiliations=OWNER%2CCOLLABORATOR&logo=github&style=for-the-badge&label=Star">
 </a>
@@ -10,12 +10,12 @@
 <br>
 </div>
 
-<div align="center">
+<div>
 <h2 id="stats">📊 GitHub Stats</h2>
 <img src="https://github-readme-stats.vercel.app/api?username=krishdevdb&show_icons=true&count_private=true">
 </div>
 
-<div align="center">
+<div>
 <br>
 <h2 id="projects"> ✨ Opensource Projects</h2>
 <a href="https://github.com/krishdevdb/reseter.css"><img src="https://github-readme-stats.vercel.app/api/pin/?username=krishdevdb&repo=reseter.css&show_icons=true&count_private=true&layout=compact"></a>&#8198;
@@ -23,32 +23,31 @@
 <br>
 </div>
 
-<div align="center">
+<div>
 <h2 id="languages"> ❤ Favourite Languages </h2>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishdevdb&show_icons=true&count_private=true&layout=compact">
 </div>
 
-<div align="center">
+<div>
 <h2 id="trophee">🏆 GitHub Trophee</h2>
 <img src="https://github-profile-trophy.vercel.app/?username=krishdevdb&row=1&no-frame=true">
 <br>
 </div>
 
-<div align="center">
+<div>
 <h2 id="streak">🔥GitHub Streak</h2>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=krishdevdb">
 <br>
 </div>
 
-
-<h2 align="center" id="posts"> 📕 Blog Posts </h2>
+<h2 id="posts"> 📕 Blog Posts </h2>
 
 <!-- BLOG-POSTS:START -->
 - [Answer by Krish Dev DB for CSS Reset for Chrome](https://stackoverflow.com/questions/12936753/css-reset-for-chrome/67345930#67345930)
 - [Answer by Krish Dev DB for Ultimate css reset](https://stackoverflow.com/questions/48488800/ultimate-css-reset/67331930#67331930)
 <!-- BLOG-POSTS:END -->
 
-<h2 align="center" id="breakdown"> 📈 Weekly Development Breakdown </h2>
+<h2 id="breakdown"> 📈 Weekly Development Breakdown </h2>
 
 <!--START_SECTION:waka-->
 ```text
@@ -60,7 +59,7 @@ JSON       11 mins         █▓░░░░░░░░░░░░░░░�
 ```
 <!--END_SECTION:waka-->
 
-<h2 align="center" id="activity"> ⚡ Recent Activity </h2>
+<h2" id="activity"> ⚡ Recent Activity </h2>
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#35](https://github.com/EddieHubCommunity/Hackathons/issues/35) in [EddieHubCommunity/Hackathons](https://github.com/EddieHubCommunity/Hackathons)
@@ -69,7 +68,5 @@ JSON       11 mins         █▓░░░░░░░░░░░░░░░�
 4. ❗️ Opened issue [#1448](https://github.com/EddieHubCommunity/support/issues/1448) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
 5. 🗣 Commented on [#14042](https://github.com/cdnjs/cdnjs/issues/14042) in [cdnjs/cdnjs](https://github.com/cdnjs/cdnjs)
 <!--END_SECTION:activity-->
-
-<h2 align="center" id="music"> ⚡ Contribution Activity </h2>
 
 <img align="center" src="https://activity-graph.herokuapp.com/graph?username=krishdevdb&theme=xcode&hide_border=true&area=true&point=transparent">
