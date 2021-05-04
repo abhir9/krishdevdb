@@ -40,11 +40,6 @@
 <br>
 </div>
 
-<h2 id="posts"> 📕 Blog Posts </h2>
-
-
-
-
 <h2 id="breakdown"> 📈 Weekly Development Breakdown </h2>
 
 
