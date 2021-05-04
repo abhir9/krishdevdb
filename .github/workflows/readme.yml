@@ -35,6 +35,7 @@ jobs:
   blog:
     name: Update Profile With Latest Blog Posts
     runs-on: ubuntu-latest
+    needs: activity
     steps:
       - uses: actions/checkout@v2
       - uses: gautamkrishnar/blog-post-workflow@master
@@ -50,6 +51,7 @@ jobs:
   breakdown:
     name: Update Profile With Weekly Development Breakdown
     runs-on: ubuntu-latest
+    needs: activity
     steps:
       - uses: athul/waka-readme@master
         with:
