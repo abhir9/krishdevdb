@@ -69,4 +69,4 @@ JSON       11 mins         █▓░░░░░░░░░░░░░░░�
 5. 🗣 Commented on [#14042](https://github.com/cdnjs/cdnjs/issues/14042) in [cdnjs/cdnjs](https://github.com/cdnjs/cdnjs)
 <!--END_SECTION:activity-->
 
-<img align="center" src="https://activity-graph.herokuapp.com/graph?username=krishdevdb&theme=xcode&hide_border=true&area=true&point=transparent">
+<img align="center" src="https://activity-graph.herokuapp.com/graph?username=krishdevdb&hide_border=true&area=true&point=transparent">
