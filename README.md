@@ -42,32 +42,36 @@
 
 <h2 id="posts"> 📕 Blog Posts </h2>
 
-<!-- BLOG-POSTS:START -->
-- [Use Reseter.css Instead Of Normalize and Reset.css. To Improve Cross Browser Experience.](https://dev.to/krishdevdb/use-reseter-css-instead-of-normalize-and-reset-css-to-improve-cross-browser-experience-13gn)
-- [Use Reseter.css Instead Of Normalize and Reset.css. To Improve Cross Browser Experience.](https://krishdevdb.hashnode.dev/use-resetercss)
-<!-- BLOG-POSTS:END -->
+
+
 
 <h2 id="breakdown"> 📈 Weekly Development Breakdown </h2>
 
-<!--START_SECTION:waka-->
-```text
-YAML       1 hr 34 mins    ████████████▓░░░░░░░░░░░░   50.81 % 
-Markdown   41 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.28 % 
-CSS        12 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.72 % 
-Bash       12 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.52 % 
-JSON       11 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.13 % 
-```
-<!--END_SECTION:waka-->
+
+
 
 <h2 id="activity"> ⚡ Recent Activity </h2>
 
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#35](https://github.com/EddieHubCommunity/Hackathons/issues/35) in [EddieHubCommunity/Hackathons](https://github.com/EddieHubCommunity/Hackathons)
-2. ❗️ Opened issue [#35](https://github.com/EddieHubCommunity/Hackathons/issues/35) in [EddieHubCommunity/Hackathons](https://github.com/EddieHubCommunity/Hackathons)
-3. 🗣 Commented on [#990](https://github.com/EddieHubCommunity/support/issues/990) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-4. ❗️ Opened issue [#1448](https://github.com/EddieHubCommunity/support/issues/1448) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-5. 🗣 Commented on [#14042](https://github.com/cdnjs/cdnjs/issues/14042) in [cdnjs/cdnjs](https://github.com/cdnjs/cdnjs)
-<!--END_SECTION:activity-->
+#### 👷 Check out what I'm currently working on
+
+- [krishdevdb/reseter.css](https://github.com/krishdevdb/reseter.css) - Reseter.css - A Futuristic Alternative To Normalize.css And CSS Resets (1 day ago)
+- [github/explore](https://github.com/github/explore) - Community-curated topic and collection pages on GitHub (6 days ago)
+- [deepsourcelabs/good-first-issue](https://github.com/deepsourcelabs/good-first-issue) - Make your first open-source contribution. (2 weeks ago)
+- [krishdevdb/css-reset-comparision](https://github.com/krishdevdb/css-reset-comparision) - CSS Reset Comparison - A Non-Opinionated CSS Reset And Normalize Comparison (3 weeks ago)
+- [eciavatta/caronte](https://github.com/eciavatta/caronte) - A tool to analyze the network flow during attack/defence Capture the Flag competitions (3 weeks ago)
+
+#### 🌱 My latest projects
+
+- [krishdevdb/css-reset-comparision](https://github.com/krishdevdb/css-reset-comparision) - CSS Reset Comparison - A Non-Opinionated CSS Reset And Normalize Comparison
+- [krishdevdb/repo-template](https://github.com/krishdevdb/repo-template) - A GitHub Repository Template For Tomorrow&#39;s Open Source
+- [krishdevdb/readme-template](https://github.com/krishdevdb/readme-template) - A Readme Template For Tomorrow&#39;s Opensource
+- [krishdevdb/reseter.css](https://github.com/krishdevdb/reseter.css) - Reseter.css - A Futuristic Alternative To Normalize.css And CSS Resets
+
+#### 🔭 Latest releases I've contributed to
+
+- [krishdevdb/reseter.css](https://github.com/krishdevdb/reseter.css) ([1.1.3](https://github.com/krishdevdb/reseter.css/releases/tag/1.1.3), 3 days ago) - Reseter.css - A Futuristic Alternative To Normalize.css And CSS Resets
+- [krishdevdb/readme-template](https://github.com/krishdevdb/readme-template) ([v1.0.2](https://github.com/krishdevdb/readme-template/releases/tag/v1.0.2), 2 months ago) - A Readme Template For Tomorrow&#39;s Opensource
+- [ContributorCovenant/contributor_covenant](https://github.com/ContributorCovenant/contributor_covenant) ([2.0](https://github.com/ContributorCovenant/contributor_covenant/releases/tag/2.0), 10 months ago) - Pledge your respect and appreciation for contributors of all kinds to your open source project.
 
 <br>
 <br>
