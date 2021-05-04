@@ -8,9 +8,10 @@
 </p>
 <img src="https://cardivo.vercel.app/api?name=Krish%20Dev%20DB&description=A%20Open%20Source%20Developer%0A&image=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F76587897%3Fv%3D4&site=https%3A%2F%2Fgithub.com%2Fkrishdevdb%2F&instagram=krishdevdb&linkedin=krish-dev-db-02a387206&github=krishdevdb&twitter=krishdevdb&pattern=leaf&backgroundColor=%23ecf0f1&colorPattern=%23eaeaea">
 <br>
-<br>
 </div>
+
 <div align="center">
+<h2 id="stats">📊 GitHub Stats</h2>
 <img src="https://github-readme-stats.vercel.app/api?username=krishdevdb&show_icons=true&count_private=true">
 </div>
 
