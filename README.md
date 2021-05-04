@@ -59,7 +59,7 @@ JSON       11 mins         █▓░░░░░░░░░░░░░░░�
 ```
 <!--END_SECTION:waka-->
 
-<h2" id="activity"> ⚡ Recent Activity </h2>
+<h2 id="activity"> ⚡ Recent Activity </h2>
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#35](https://github.com/EddieHubCommunity/Hackathons/issues/35) in [EddieHubCommunity/Hackathons](https://github.com/EddieHubCommunity/Hackathons)
@@ -68,5 +68,8 @@ JSON       11 mins         █▓░░░░░░░░░░░░░░░�
 4. ❗️ Opened issue [#1448](https://github.com/EddieHubCommunity/support/issues/1448) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
 5. 🗣 Commented on [#14042](https://github.com/cdnjs/cdnjs/issues/14042) in [cdnjs/cdnjs](https://github.com/cdnjs/cdnjs)
 <!--END_SECTION:activity-->
+
+<br>
+<br>
 
 <img align="center" src="https://activity-graph.herokuapp.com/graph?username=krishdevdb&hide_border=true&area=true&point=transparent">
