@@ -40,3 +40,11 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.token }}
         with:
           COMMIT_MSG: 'Update Profile With Recent Activity'
+  snake:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: Platane/snk@v0.0.18
+        with:
+          github_user_name: krishdevdb
+          gif_out_path: snake.gif
