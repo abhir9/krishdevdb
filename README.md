@@ -1,5 +1,5 @@
-<div>
-<p align="center">
+<div align="center">
+<p>
 <a href="#projects">
 <img src="https://img.shields.io/github/stars/krishdevdb?affiliations=OWNER%2CCOLLABORATOR&logo=github&style=for-the-badge&label=Star">
 </a>
