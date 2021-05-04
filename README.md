@@ -65,11 +65,11 @@ JSON       11 mins         █▓░░░░░░░░░░░░░░░�
 <h2 align="center" id="activity"> ⚡ Recent Activity </h2>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1448](https://github.com/EddieHubCommunity/support/issues/1448) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-2. 🗣 Commented on [#14042](https://github.com/cdnjs/cdnjs/issues/14042) in [cdnjs/cdnjs](https://github.com/cdnjs/cdnjs)
-3. ❗️ Opened issue [#37](https://github.com/krishdevdb/reseter.css/issues/37) in [krishdevdb/reseter.css](https://github.com/krishdevdb/reseter.css)
-4. 🎉 Merged PR [#36](https://github.com/krishdevdb/reseter.css/pull/36) in [krishdevdb/reseter.css](https://github.com/krishdevdb/reseter.css)
-5. 🗣 Commented on [#36](https://github.com/krishdevdb/reseter.css/issues/36) in [krishdevdb/reseter.css](https://github.com/krishdevdb/reseter.css)
+1. 🗣 Commented on [#990](https://github.com/EddieHubCommunity/support/issues/990) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+2. ❗️ Opened issue [#1448](https://github.com/EddieHubCommunity/support/issues/1448) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+3. 🗣 Commented on [#14042](https://github.com/cdnjs/cdnjs/issues/14042) in [cdnjs/cdnjs](https://github.com/cdnjs/cdnjs)
+4. ❗️ Opened issue [#37](https://github.com/krishdevdb/reseter.css/issues/37) in [krishdevdb/reseter.css](https://github.com/krishdevdb/reseter.css)
+5. 🎉 Merged PR [#36](https://github.com/krishdevdb/reseter.css/pull/36) in [krishdevdb/reseter.css](https://github.com/krishdevdb/reseter.css)
 <!--END_SECTION:activity-->
 
 <h2 align="center" id="joke">🤣</h2>
