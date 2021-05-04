@@ -31,21 +31,29 @@ jobs:
           GH_TOKEN: ${{ secrets.token }}
           COMMIT_MESSAGE: 'Update Profile With Weekly Development Breakdown'
   activity:
-    name: Update Profile With Recent Activity
+    name: Update Readme With Activity
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - uses: jamesgeorge007/github-activity-readme@master
+      - uses: actions/checkout@master
+      - uses: muesli/readme-scribe@master
         env:
           GITHUB_TOKEN: ${{ secrets.token }}
         with:
-          COMMIT_MSG: 'Update Profile With Recent Activity'
-  snake:
-    name: Snake Gif At Bottom
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v2
-      - uses: Platane/snk@v0.0.18
+          template: "templates/README.md.template"
+          writeTo: "README.md"
+
+      - uses: actions/upload-artifact@v1
         with:
-          github_user_name: krishdevdb
-          gif_out_path: ./images/snake.gif
+          name: README.md
+          path: README.md
+
+      - uses: stefanzweifel/git-auto-commit-action@v4
+        env:
+          GITHUB_TOKEN: ${{ secrets.token }}
+        with:
+          commit_message: Update With Activity
+          branch: master
+          commit_user_name: krishdevdb
+          commit_user_email: krishdevdb@gmail.com
+          commit_author: krishdevdb <krishdevdb@gmail.com>
+  
