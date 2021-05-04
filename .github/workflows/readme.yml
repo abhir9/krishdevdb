@@ -15,7 +15,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.token }}
         with:
-          template: "templates/README.md.template"
+          template: "README.md.template"
           writeTo: "README.md"
 
       - uses: actions/upload-artifact@v1
