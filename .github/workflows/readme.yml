@@ -6,30 +6,6 @@ on:
     - cron: "*/15 * * * *"
 
 jobs:
-  blog:
-    name: Update Profile With Latest Blog Posts
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v2
-      - uses: gautamkrishnar/blog-post-workflow@master
-        with:
-          feed_list: "https://dev.to/feed/krishdevdb,https://medium.com/feed/@krishdevdb,https://krishdevdb.hashnode.dev/rss.xml"
-          max_post_count: 2
-          gh_token: ${{ secrets.token }}
-          comment_tag_name: BLOG-POSTS
-          commit_message: 'Update Profile With Latest Blog Posts'
-          committer_username: krishdevdb
-          committer_email: krishdevdb@gmail.com
-          enable_keepalive: false
-  breakdown:
-    name: Update Profile With Weekly Development Breakdown
-    runs-on: ubuntu-latest
-    steps:
-      - uses: athul/waka-readme@master
-        with:
-          WAKATIME_API_KEY: ${{ secrets.waka_api }}
-          GH_TOKEN: ${{ secrets.token }}
-          COMMIT_MESSAGE: 'Update Profile With Weekly Development Breakdown'
   activity:
     name: Update Readme With Activity
     runs-on: ubuntu-latest
@@ -56,4 +32,28 @@ jobs:
           commit_user_name: krishdevdb
           commit_user_email: krishdevdb@gmail.com
           commit_author: krishdevdb <krishdevdb@gmail.com>
+  blog:
+    name: Update Profile With Latest Blog Posts
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          feed_list: "https://dev.to/feed/krishdevdb,https://medium.com/feed/@krishdevdb,https://krishdevdb.hashnode.dev/rss.xml"
+          max_post_count: 2
+          gh_token: ${{ secrets.token }}
+          comment_tag_name: BLOG-POSTS
+          commit_message: 'Update Profile With Latest Blog Posts'
+          committer_username: krishdevdb
+          committer_email: krishdevdb@gmail.com
+          enable_keepalive: false
+  breakdown:
+    name: Update Profile With Weekly Development Breakdown
+    runs-on: ubuntu-latest
+    steps:
+      - uses: athul/waka-readme@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.waka_api }}
+          GH_TOKEN: ${{ secrets.token }}
+          COMMIT_MESSAGE: 'Update Profile With Weekly Development Breakdown'
   
