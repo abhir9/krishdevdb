@@ -49,9 +49,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [krishdevdb/reseter.css](https://github.com/krishdevdb/reseter.css) - Reseter.css - A Futuristic Alternative To Normalize.css And CSS Resets (1 day ago)
-- [github/explore](https://github.com/github/explore) - Community-curated topic and collection pages on GitHub (6 days ago)
-- [deepsourcelabs/good-first-issue](https://github.com/deepsourcelabs/good-first-issue) - Make your first open-source contribution. (2 weeks ago)
+- [krishdevdb/reseter.css](https://github.com/krishdevdb/reseter.css) - Reseter.css - A Futuristic Alternative To Normalize.css And CSS Resets (2 days ago)
+- [github/explore](https://github.com/github/explore) - Community-curated topic and collection pages on GitHub (1 week ago)
+- [deepsourcelabs/good-first-issue](https://github.com/deepsourcelabs/good-first-issue) - Make your first open-source contribution. (3 weeks ago)
 - [krishdevdb/css-reset-comparision](https://github.com/krishdevdb/css-reset-comparision) - CSS Reset Comparison - A Non-Opinionated CSS Reset And Normalize Comparison (3 weeks ago)
 - [eciavatta/caronte](https://github.com/eciavatta/caronte) - A tool to analyze the network flow during attack/defence Capture the Flag competitions (3 weeks ago)
 
@@ -64,7 +64,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [krishdevdb/reseter.css](https://github.com/krishdevdb/reseter.css) ([1.1.3](https://github.com/krishdevdb/reseter.css/releases/tag/1.1.3), 3 days ago) - Reseter.css - A Futuristic Alternative To Normalize.css And CSS Resets
+- [krishdevdb/reseter.css](https://github.com/krishdevdb/reseter.css) ([1.1.3](https://github.com/krishdevdb/reseter.css/releases/tag/1.1.3), 4 days ago) - Reseter.css - A Futuristic Alternative To Normalize.css And CSS Resets
 - [krishdevdb/readme-template](https://github.com/krishdevdb/readme-template) ([v1.0.2](https://github.com/krishdevdb/readme-template/releases/tag/v1.0.2), 2 months ago) - A Readme Template For Tomorrow&#39;s Opensource
 - [ContributorCovenant/contributor_covenant](https://github.com/ContributorCovenant/contributor_covenant) ([2.0](https://github.com/ContributorCovenant/contributor_covenant/releases/tag/2.0), 10 months ago) - Pledge your respect and appreciation for contributors of all kinds to your open source project.
 
