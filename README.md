@@ -49,11 +49,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles) - List of GitHub profiles that have awesome customisation, that you can use for inspiration (today)
-- [krishdevdb/reseter.css](https://github.com/krishdevdb/reseter.css) - Reseter.css - A Futuristic Alternative To Normalize.css And CSS Resets (2 days ago)
+- [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice) - Repo for you to raise a Pull Request for practice (today)
+- [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles) - List of GitHub profiles that have awesome customisation, that you can use for inspiration (1 day ago)
+- [krishdevdb/reseter.css](https://github.com/krishdevdb/reseter.css) - Reseter.css - A Futuristic Alternative To Normalize.css And CSS Resets (3 days ago)
 - [github/explore](https://github.com/github/explore) - Community-curated topic and collection pages on GitHub (1 week ago)
 - [deepsourcelabs/good-first-issue](https://github.com/deepsourcelabs/good-first-issue) - Make your first open-source contribution. (3 weeks ago)
-- [krishdevdb/css-reset-comparision](https://github.com/krishdevdb/css-reset-comparision) - CSS Reset Comparison - A Non-Opinionated CSS Reset And Normalize Comparison (3 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -64,8 +64,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [krishdevdb/reseter.css](https://github.com/krishdevdb/reseter.css) ([1.1.3](https://github.com/krishdevdb/reseter.css/releases/tag/1.1.3), 4 days ago) - Reseter.css - A Futuristic Alternative To Normalize.css And CSS Resets
+- [krishdevdb/reseter.css](https://github.com/krishdevdb/reseter.css) ([1.1.3](https://github.com/krishdevdb/reseter.css/releases/tag/1.1.3), 5 days ago) - Reseter.css - A Futuristic Alternative To Normalize.css And CSS Resets
 - [krishdevdb/readme-template](https://github.com/krishdevdb/readme-template) ([v1.0.2](https://github.com/krishdevdb/readme-template/releases/tag/v1.0.2), 2 months ago) - A Readme Template For Tomorrow&#39;s Opensource
+- [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice) ([v0.1](https://github.com/EddieHubCommunity/hacktoberfest-practice/releases/tag/v0.1), 7 months ago) - Repo for you to raise a Pull Request for practice
 - [ContributorCovenant/contributor_covenant](https://github.com/ContributorCovenant/contributor_covenant) ([2.0](https://github.com/ContributorCovenant/contributor_covenant/releases/tag/2.0), 10 months ago) - Pledge your respect and appreciation for contributors of all kinds to your open source project.
 
 <br>
