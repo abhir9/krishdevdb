@@ -1,4 +1,7 @@
 <div align="center">
+  
+<img src="https://readme-typing-svg.herokuapp.com?size=50&center=true&vCenter=true&width=700&height=100&lines=Hello+World+%F0%9F%91%8B;Bonjour+tout+le+monde+%F0%9F%91%8B;Hallo+Welt%F0%9F%91%8B;Hello+World%F0%9F%91%8B">
+  
 <p>
 <a href="#projects">
 <img src="https://img.shields.io/github/stars/krishdevdb?affiliations=OWNER%2CCOLLABORATOR&logo=github&style=for-the-badge&label=Star">
