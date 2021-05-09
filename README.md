@@ -49,10 +49,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [AkhileshThite/Portfolio](https://github.com/AkhileshThite/Portfolio) - This portfolio website is created by me using some html and css. Feel free to use this code. (today)
-- [krishdevdb/reseter.css](https://github.com/krishdevdb/reseter.css) - Reseter.css - A Futuristic Alternative To Normalize.css And CSS Resets (1 day ago)
-- [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice) - Repo for you to raise a Pull Request for practice (2 days ago)
-- [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles) - List of GitHub profiles that have awesome customisation, that you can use for inspiration (3 days ago)
+- [AkhileshThite/Portfolio](https://github.com/AkhileshThite/Portfolio) - This portfolio website is created by me using some html and css. Feel free to use this code. (1 day ago)
+- [krishdevdb/reseter.css](https://github.com/krishdevdb/reseter.css) - Reseter.css - A Futuristic Alternative To Normalize.css And CSS Resets (2 days ago)
+- [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice) - Repo for you to raise a Pull Request for practice (3 days ago)
+- [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles) - List of GitHub profiles that have awesome customisation, that you can use for inspiration (4 days ago)
 - [github/explore](https://github.com/github/explore) - Community-curated topic and collection pages on GitHub (1 week ago)
 
 #### 🌱 My latest projects
