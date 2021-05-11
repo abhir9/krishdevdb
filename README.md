@@ -51,10 +51,10 @@
 #### 👷 Check out what I'm currently working on
 
 - [krishdevdb/reseter.css](https://github.com/krishdevdb/reseter.css) - Reseter.css - A Futuristic Alternative To Normalize.css And CSS Resets (today)
-- [AkhileshThite/Portfolio](https://github.com/AkhileshThite/Portfolio) - This is my portfolio website created by using some html and css. Feel free to use this code. (3 days ago)
+- [ChinmayMhatre/ChinmayMhatre](https://github.com/ChinmayMhatre/ChinmayMhatre) -  (today)
 - [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg) - ⚡ Dynamically generated, customizable SVG that gives the appearance of typing and deleting text. Typing SVGs can be used as a bio on your Github profile readme or repository. (3 days ago)
+- [AkhileshThite/Portfolio](https://github.com/AkhileshThite/Portfolio) - This is my portfolio website created by using some html and css. Feel free to use this code. (3 days ago)
 - [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice) - Repo for you to raise a Pull Request for practice (5 days ago)
-- [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles) - List of GitHub profiles that have awesome customisation, that you can use for inspiration (6 days ago)
 
 #### 🌱 My latest projects
 
