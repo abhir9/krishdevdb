@@ -50,8 +50,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [krishdevdb/krishdevdb.github.io](https://github.com/krishdevdb/krishdevdb.github.io) - :construction: Portfolio, Feel Free To Fork And Star :) (today)
 - [Agrover112/awesome-semantic-search](https://github.com/Agrover112/awesome-semantic-search) - A curated list of  awesome resources related to Semantic Search🔎  and Semantic Similarity tasks. (today)
+- [krishdevdb/krishdevdb.github.io](https://github.com/krishdevdb/krishdevdb.github.io) - :construction: Portfolio, Feel Free To Fork And Star :) (today)
 - [ChinmayMhatre/ChinmayMhatre](https://github.com/ChinmayMhatre/ChinmayMhatre) -  (2 days ago)
 - [krishdevdb/reseter.css](https://github.com/krishdevdb/reseter.css) - Reseter.css - A Futuristic Alternative To Normalize.css And CSS Resets (2 days ago)
 - [AkhileshThite/Portfolio](https://github.com/AkhileshThite/Portfolio) - This is my portfolio website created by using some html and css. Feel free to use this code. (5 days ago)
