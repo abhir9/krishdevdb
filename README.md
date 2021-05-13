@@ -50,14 +50,15 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [krishdevdb/krishdevdb.github.io](https://github.com/krishdevdb/krishdevdb.github.io) - :construction: Portfolio, Feel Free To Fork And Star :) (today)
 - [krishdevdb/reseter.css](https://github.com/krishdevdb/reseter.css) - Reseter.css - A Futuristic Alternative To Normalize.css And CSS Resets (2 days ago)
 - [ChinmayMhatre/ChinmayMhatre](https://github.com/ChinmayMhatre/ChinmayMhatre) -  (2 days ago)
 - [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg) - ⚡ Dynamically generated, customizable SVG that gives the appearance of typing and deleting text. Typing SVGs can be used as a bio on your Github profile readme or repository. (5 days ago)
 - [AkhileshThite/Portfolio](https://github.com/AkhileshThite/Portfolio) - This is my portfolio website created by using some html and css. Feel free to use this code. (5 days ago)
-- [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice) - Repo for you to raise a Pull Request for practice (1 week ago)
 
 #### 🌱 My latest projects
 
+- [krishdevdb/krishdevdb.github.io](https://github.com/krishdevdb/krishdevdb.github.io) - :construction: Portfolio, Feel Free To Fork And Star :)
 - [krishdevdb/css-reset-comparision](https://github.com/krishdevdb/css-reset-comparision) - CSS Reset Comparison - A Non-Opinionated CSS Reset And Normalize Comparison
 - [krishdevdb/readme-template](https://github.com/krishdevdb/readme-template) - A Readme Template For Tomorrow&#39;s Opensource
 - [krishdevdb/reseter.css](https://github.com/krishdevdb/reseter.css) - Reseter.css - A Futuristic Alternative To Normalize.css And CSS Resets
