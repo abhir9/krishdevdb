@@ -58,7 +58,6 @@
 
 #### 🌱 My latest projects
 
-- [krishdevdb/github-slideshow](https://github.com/krishdevdb/github-slideshow) - A robot powered training repository :robot:
 - [krishdevdb/css-reset-comparision](https://github.com/krishdevdb/css-reset-comparision) - CSS Reset Comparison - A Non-Opinionated CSS Reset And Normalize Comparison
 - [krishdevdb/readme-template](https://github.com/krishdevdb/readme-template) - A Readme Template For Tomorrow&#39;s Opensource
 - [krishdevdb/reseter.css](https://github.com/krishdevdb/reseter.css) - Reseter.css - A Futuristic Alternative To Normalize.css And CSS Resets
