@@ -50,15 +50,14 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [krishdevdb/krishdevdb.github.io](https://github.com/krishdevdb/krishdevdb.github.io) - :construction: Portfolio, Feel Free To Fork And Star :) (1 day ago)
 - [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support) - Community Help &amp; Support and AEA (Ask Everyone Anything) (2 days ago)
 - [Agrover112/awesome-semantic-search](https://github.com/Agrover112/awesome-semantic-search) - A curated list of  awesome resources related to Semantic Search🔎  and Semantic Similarity tasks. (3 days ago)
 - [ChinmayMhatre/ChinmayMhatre](https://github.com/ChinmayMhatre/ChinmayMhatre) -  (5 days ago)
 - [krishdevdb/reseter.css](https://github.com/krishdevdb/reseter.css) - Reseter.css - A Futuristic Alternative To Normalize.css And CSS Resets (5 days ago)
+- [AkhileshThite/Portfolio](https://github.com/AkhileshThite/Portfolio) - This is my portfolio website created by using some html and css. Feel free to use this code. (1 week ago)
 
 #### 🌱 My latest projects
 
-- [krishdevdb/krishdevdb.github.io](https://github.com/krishdevdb/krishdevdb.github.io) - :construction: Portfolio, Feel Free To Fork And Star :)
 - [krishdevdb/css-reset-comparision](https://github.com/krishdevdb/css-reset-comparision) - CSS Reset Comparison - A Non-Opinionated CSS Reset And Normalize Comparison
 - [krishdevdb/readme-template](https://github.com/krishdevdb/readme-template) - A Readme Template For Tomorrow&#39;s Opensource
 - [krishdevdb/reseter.css](https://github.com/krishdevdb/reseter.css) - Reseter.css - A Futuristic Alternative To Normalize.css And CSS Resets
