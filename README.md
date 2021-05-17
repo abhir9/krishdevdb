@@ -50,10 +50,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support) - Community Help &amp; Support and AEA (Ask Everyone Anything) (2 days ago)
-- [Agrover112/awesome-semantic-search](https://github.com/Agrover112/awesome-semantic-search) - A curated list of  awesome resources related to Semantic Search🔎  and Semantic Similarity tasks. (3 days ago)
-- [ChinmayMhatre/ChinmayMhatre](https://github.com/ChinmayMhatre/ChinmayMhatre) -  (5 days ago)
-- [krishdevdb/reseter.css](https://github.com/krishdevdb/reseter.css) - Reseter.css - A Futuristic Alternative To Normalize.css And CSS Resets (5 days ago)
+- [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support) - Community Help &amp; Support and AEA (Ask Everyone Anything) (3 days ago)
+- [Agrover112/awesome-semantic-search](https://github.com/Agrover112/awesome-semantic-search) - A curated list of  awesome resources related to Semantic Search🔎  and Semantic Similarity tasks. (4 days ago)
+- [ChinmayMhatre/ChinmayMhatre](https://github.com/ChinmayMhatre/ChinmayMhatre) -  (6 days ago)
+- [krishdevdb/reseter.css](https://github.com/krishdevdb/reseter.css) - Reseter.css - A Futuristic Alternative To Normalize.css And CSS Resets (6 days ago)
 - [AkhileshThite/Portfolio](https://github.com/AkhileshThite/Portfolio) - This is my portfolio website created by using some html and css. Feel free to use this code. (1 week ago)
 
 #### 🌱 My latest projects
@@ -64,7 +64,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [AkhileshThite/Portfolio](https://github.com/AkhileshThite/Portfolio) ([v2.0](https://github.com/AkhileshThite/Portfolio/releases/tag/v2.0), today) - This is my portfolio website created by using some html and css. Feel free to use this code.
+- [AkhileshThite/Portfolio](https://github.com/AkhileshThite/Portfolio) ([v2.0](https://github.com/AkhileshThite/Portfolio/releases/tag/v2.0), 1 day ago) - This is my portfolio website created by using some html and css. Feel free to use this code.
 - [krishdevdb/reseter.css](https://github.com/krishdevdb/reseter.css) ([1.1.3](https://github.com/krishdevdb/reseter.css/releases/tag/1.1.3), 2 weeks ago) - Reseter.css - A Futuristic Alternative To Normalize.css And CSS Resets
 - [krishdevdb/readme-template](https://github.com/krishdevdb/readme-template) ([v1.0.2](https://github.com/krishdevdb/readme-template/releases/tag/v1.0.2), 2 months ago) - A Readme Template For Tomorrow&#39;s Opensource
 - [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice) ([v0.1](https://github.com/EddieHubCommunity/hacktoberfest-practice/releases/tag/v0.1), 8 months ago) - Repo for you to raise a Pull Request for practice
