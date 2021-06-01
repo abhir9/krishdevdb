@@ -29,8 +29,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [krishdevdb/CoviDash](https://github.com/krishdevdb/CoviDash) - A Covid Dashboard With Vaccine Functionality (3 days ago)
 - [krishdevdb/open-sauced-goals](https://github.com/krishdevdb/open-sauced-goals) -  (3 days ago)
+- [krishdevdb/CoviDash](https://github.com/krishdevdb/CoviDash) - A Covid Dashboard With Vaccine Functionality (3 days ago)
 - [hellosagar/hellosagar](https://github.com/hellosagar/hellosagar) - Sagar Khurana Portfolio (4 days ago)
 - [krishdevdb/reseter.css](https://github.com/krishdevdb/reseter.css) - Reseter.css - A Futuristic Alternative To Normalize.css And CSS Resets (5 days ago)
 - [krishdevdb/design-thinking-intro](https://github.com/krishdevdb/design-thinking-intro) -  (1 week ago)
