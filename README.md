@@ -29,10 +29,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [krishdevdb/CoviDash](https://github.com/krishdevdb/CoviDash) - A Covid Dashboard With Vaccine Functionality (2 days ago)
-- [krishdevdb/open-sauced-goals](https://github.com/krishdevdb/open-sauced-goals) -  (2 days ago)
-- [hellosagar/hellosagar](https://github.com/hellosagar/hellosagar) - Sagar Khurana Portfolio (3 days ago)
-- [krishdevdb/reseter.css](https://github.com/krishdevdb/reseter.css) - Reseter.css - A Futuristic Alternative To Normalize.css And CSS Resets (4 days ago)
+- [krishdevdb/CoviDash](https://github.com/krishdevdb/CoviDash) - A Covid Dashboard With Vaccine Functionality (3 days ago)
+- [krishdevdb/open-sauced-goals](https://github.com/krishdevdb/open-sauced-goals) -  (3 days ago)
+- [hellosagar/hellosagar](https://github.com/hellosagar/hellosagar) - Sagar Khurana Portfolio (4 days ago)
+- [krishdevdb/reseter.css](https://github.com/krishdevdb/reseter.css) - Reseter.css - A Futuristic Alternative To Normalize.css And CSS Resets (5 days ago)
 - [krishdevdb/design-thinking-intro](https://github.com/krishdevdb/design-thinking-intro) -  (1 week ago)
 
 #### 🌱 My latest projects
@@ -45,7 +45,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [AkhileshThite/Portfolio](https://github.com/AkhileshThite/Portfolio) ([v2.0](https://github.com/AkhileshThite/Portfolio/releases/tag/v2.0), 3 days ago) - This is my portfolio website created by using some html and css. Feel free to use this code.
+- [AkhileshThite/Portfolio](https://github.com/AkhileshThite/Portfolio) ([v2.0](https://github.com/AkhileshThite/Portfolio/releases/tag/v2.0), 4 days ago) - This is my portfolio website created by using some html and css. Feel free to use this code.
 - [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot) ([v0.5.2](https://github.com/EddieHubCommunity/EddieBot/releases/tag/v0.5.2), 1 week ago) - Discord bot for Eddie Jaoude&#39;s Discord server
 - [krishdevdb/reseter.css](https://github.com/krishdevdb/reseter.css) ([1.1.3](https://github.com/krishdevdb/reseter.css/releases/tag/1.1.3), 1 month ago) - Reseter.css - A Futuristic Alternative To Normalize.css And CSS Resets
 - [krishdevdb/readme-template](https://github.com/krishdevdb/readme-template) ([v1.0.2](https://github.com/krishdevdb/readme-template/releases/tag/v1.0.2), 2 months ago) - A Readme Template For Tomorrow&#39;s Opensource
