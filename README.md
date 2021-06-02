@@ -29,19 +29,19 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [krishdevdb/open-sauced-goals](https://github.com/krishdevdb/open-sauced-goals) -  (4 days ago)
+- [krishdevdb/c](https://github.com/krishdevdb/c) - @krishdevdb learns **c** (today)
 - [krishdevdb/CoviDash](https://github.com/krishdevdb/CoviDash) - A Covid Dashboard With Vaccine Functionality (4 days ago)
+- [krishdevdb/open-sauced-goals](https://github.com/krishdevdb/open-sauced-goals) -  (4 days ago)
 - [hellosagar/hellosagar](https://github.com/hellosagar/hellosagar) - Sagar Khurana Portfolio (5 days ago)
 - [krishdevdb/reseter.css](https://github.com/krishdevdb/reseter.css) - Reseter.css - A Futuristic Alternative To Normalize.css And CSS Resets (6 days ago)
-- [krishdevdb/design-thinking-intro](https://github.com/krishdevdb/design-thinking-intro) -  (1 week ago)
 
 #### 🌱 My latest projects
 
+- [krishdevdb/c](https://github.com/krishdevdb/c) - @krishdevdb learns **c**
 - [krishdevdb/open-sauced-goals](https://github.com/krishdevdb/open-sauced-goals) - 
 - [krishdevdb/CoviDash](https://github.com/krishdevdb/CoviDash) - A Covid Dashboard With Vaccine Functionality
 - [krishdevdb/Hubber](https://github.com/krishdevdb/Hubber) - An Bot Proposal For @EddieHubCommunity
 - [krishdevdb/design-thinking-intro](https://github.com/krishdevdb/design-thinking-intro) - 
-- [krishdevdb/write-github-script](https://github.com/krishdevdb/write-github-script) - 
 
 #### 🔭 Latest releases I've contributed to
 
