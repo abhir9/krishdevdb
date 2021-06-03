@@ -29,19 +29,19 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [krishdevdb/c](https://github.com/krishdevdb/c) - @krishdevdb learns **c** (1 day ago)
+- [krishdevdb/krishdevdb.github.io](https://github.com/krishdevdb/krishdevdb.github.io) - @krishdevdb&#39;s Personal Website (today)
 - [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot) - Discord bot for Eddie Jaoude&#39;s Discord server (1 day ago)
+- [krishdevdb/c](https://github.com/krishdevdb/c) - @krishdevdb learns **c** (1 day ago)
 - [krishdevdb/CoviDash](https://github.com/krishdevdb/CoviDash) - A Covid Dashboard With Vaccine Functionality (5 days ago)
 - [krishdevdb/open-sauced-goals](https://github.com/krishdevdb/open-sauced-goals) -  (5 days ago)
-- [hellosagar/hellosagar](https://github.com/hellosagar/hellosagar) - Sagar Khurana Portfolio (6 days ago)
 
 #### 🌱 My latest projects
 
+- [krishdevdb/krishdevdb.github.io](https://github.com/krishdevdb/krishdevdb.github.io) - @krishdevdb&#39;s Personal Website
 - [krishdevdb/c](https://github.com/krishdevdb/c) - @krishdevdb learns **c**
 - [krishdevdb/open-sauced-goals](https://github.com/krishdevdb/open-sauced-goals) - 
 - [krishdevdb/CoviDash](https://github.com/krishdevdb/CoviDash) - A Covid Dashboard With Vaccine Functionality
 - [krishdevdb/Hubber](https://github.com/krishdevdb/Hubber) - An Bot Proposal For @EddieHubCommunity
-- [krishdevdb/design-thinking-intro](https://github.com/krishdevdb/design-thinking-intro) - 
 
 #### 🔭 Latest releases I've contributed to
 
