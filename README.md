@@ -29,9 +29,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [krishdevdb/krishdevdb.github.io](https://github.com/krishdevdb/krishdevdb.github.io) - @krishdevdb&#39;s Personal Website (1 day ago)
-- [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot) - Discord bot for Eddie Jaoude&#39;s Discord server (2 days ago)
+- [krishdevdb/krishdevdb.github.io](https://github.com/krishdevdb/krishdevdb.github.io) - @krishdevdb&#39;s Personal Website (today)
 - [krishdevdb/c](https://github.com/krishdevdb/c) - @krishdevdb learns **c** (2 days ago)
+- [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot) - Discord bot for Eddie Jaoude&#39;s Discord server (2 days ago)
 - [krishdevdb/CoviDash](https://github.com/krishdevdb/CoviDash) - A Covid Dashboard With Vaccine Functionality (6 days ago)
 - [krishdevdb/open-sauced-goals](https://github.com/krishdevdb/open-sauced-goals) -  (6 days ago)
 
