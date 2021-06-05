@@ -32,16 +32,15 @@
 - [KrishCommunity/Join](https://github.com/KrishCommunity/Join) - Join KrishCommunity Officially Here! (today)
 - [krishdevdb/krishdevdb.github.io](https://github.com/krishdevdb/krishdevdb.github.io) - @krishdevdb&#39;s Personal Website (1 day ago)
 - [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot) - Discord bot for Eddie Jaoude&#39;s Discord server (3 days ago)
-- [krishdevdb/c](https://github.com/krishdevdb/c) - @krishdevdb learns **c** (3 days ago)
-- [krishdevdb/CoviDash](https://github.com/krishdevdb/CoviDash) - A Covid Dashboard With Vaccine Functionality (1 week ago)
+- [hellosagar/hellosagar](https://github.com/hellosagar/hellosagar) - Sagar Khurana Portfolio (1 week ago)
+- [krishdevdb/reseter.css](https://github.com/krishdevdb/reseter.css) - Reseter.css - A Futuristic Alternative To Normalize.css And CSS Resets (1 week ago)
 
 #### 🌱 My latest projects
 
 - [krishdevdb/krishdevdb.github.io](https://github.com/krishdevdb/krishdevdb.github.io) - @krishdevdb&#39;s Personal Website
-- [krishdevdb/c](https://github.com/krishdevdb/c) - @krishdevdb learns **c**
-- [krishdevdb/open-sauced-goals](https://github.com/krishdevdb/open-sauced-goals) - 
-- [krishdevdb/CoviDash](https://github.com/krishdevdb/CoviDash) - A Covid Dashboard With Vaccine Functionality
-- [krishdevdb/Hubber](https://github.com/krishdevdb/Hubber) - An Bot Proposal For @EddieHubCommunity
+- [krishdevdb/css-reset-comparision](https://github.com/krishdevdb/css-reset-comparision) - CSS Reset Comparison - A Non-Opinionated CSS Reset And Normalize Comparison
+- [krishdevdb/readme-template](https://github.com/krishdevdb/readme-template) - A Readme Template For Tomorrow&#39;s Opensource
+- [krishdevdb/reseter.css](https://github.com/krishdevdb/reseter.css) - Reseter.css - A Futuristic Alternative To Normalize.css And CSS Resets
 
 #### 🔭 Latest releases I've contributed to
 
