@@ -29,11 +29,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [krishdevdb/krishdevdb.github.io](https://github.com/krishdevdb/krishdevdb.github.io) - @krishdevdb&#39;s Personal Website (today)
-- [krishdevdb/c](https://github.com/krishdevdb/c) - @krishdevdb learns **c** (2 days ago)
-- [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot) - Discord bot for Eddie Jaoude&#39;s Discord server (2 days ago)
-- [krishdevdb/CoviDash](https://github.com/krishdevdb/CoviDash) - A Covid Dashboard With Vaccine Functionality (6 days ago)
-- [krishdevdb/open-sauced-goals](https://github.com/krishdevdb/open-sauced-goals) -  (6 days ago)
+- [krishdevdb/krishdevdb.github.io](https://github.com/krishdevdb/krishdevdb.github.io) - @krishdevdb&#39;s Personal Website (1 day ago)
+- [krishdevdb/c](https://github.com/krishdevdb/c) - @krishdevdb learns **c** (3 days ago)
+- [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot) - Discord bot for Eddie Jaoude&#39;s Discord server (3 days ago)
+- [krishdevdb/CoviDash](https://github.com/krishdevdb/CoviDash) - A Covid Dashboard With Vaccine Functionality (1 week ago)
+- [krishdevdb/open-sauced-goals](https://github.com/krishdevdb/open-sauced-goals) -  (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -45,7 +45,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot) ([v0.6.2](https://github.com/EddieHubCommunity/EddieBot/releases/tag/v0.6.2), 1 day ago) - Discord bot for Eddie Jaoude&#39;s Discord server
+- [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot) ([v0.6.2](https://github.com/EddieHubCommunity/EddieBot/releases/tag/v0.6.2), 2 days ago) - Discord bot for Eddie Jaoude&#39;s Discord server
 - [AkhileshThite/Portfolio](https://github.com/AkhileshThite/Portfolio) ([v2.0](https://github.com/AkhileshThite/Portfolio/releases/tag/v2.0), 1 week ago) - This is my portfolio website created by using some html and css. Feel free to use this code.
 - [krishdevdb/reseter.css](https://github.com/krishdevdb/reseter.css) ([1.1.3](https://github.com/krishdevdb/reseter.css/releases/tag/1.1.3), 1 month ago) - Reseter.css - A Futuristic Alternative To Normalize.css And CSS Resets
 - [krishdevdb/readme-template](https://github.com/krishdevdb/readme-template) ([v1.0.2](https://github.com/krishdevdb/readme-template/releases/tag/v1.0.2), 3 months ago) - A Readme Template For Tomorrow&#39;s Opensource
