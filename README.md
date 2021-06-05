@@ -29,11 +29,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [KrishCommunity/Join](https://github.com/KrishCommunity/Join) - Join KrishCommunity Officially Here! (today)
 - [krishdevdb/krishdevdb.github.io](https://github.com/krishdevdb/krishdevdb.github.io) - @krishdevdb&#39;s Personal Website (1 day ago)
-- [krishdevdb/c](https://github.com/krishdevdb/c) - @krishdevdb learns **c** (3 days ago)
 - [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot) - Discord bot for Eddie Jaoude&#39;s Discord server (3 days ago)
+- [krishdevdb/c](https://github.com/krishdevdb/c) - @krishdevdb learns **c** (3 days ago)
 - [krishdevdb/CoviDash](https://github.com/krishdevdb/CoviDash) - A Covid Dashboard With Vaccine Functionality (1 week ago)
-- [krishdevdb/open-sauced-goals](https://github.com/krishdevdb/open-sauced-goals) -  (1 week ago)
 
 #### 🌱 My latest projects
 
