@@ -29,8 +29,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [krishdevdb/krishdevdb.github.io](https://github.com/krishdevdb/krishdevdb.github.io) - @krishdevdb&#39;s Personal Website (1 day ago)
-- [KrishCommunity/Join](https://github.com/KrishCommunity/Join) - Join KrishCommunity Officially Here! (6 days ago)
+- [krishdevdb/krishdevdb.github.io](https://github.com/krishdevdb/krishdevdb.github.io) - @krishdevdb&#39;s Personal Website (2 days ago)
+- [KrishCommunity/Join](https://github.com/KrishCommunity/Join) - Join KrishCommunity Officially Here! (1 week ago)
 - [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot) - Discord bot for Eddie Jaoude&#39;s Discord server (1 week ago)
 - [hellosagar/hellosagar](https://github.com/hellosagar/hellosagar) - Sagar Khurana Portfolio (2 weeks ago)
 - [krishdevdb/reseter.css](https://github.com/krishdevdb/reseter.css) - Reseter.css - A Futuristic Alternative To Normalize.css And CSS Resets (2 weeks ago)
@@ -44,7 +44,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot) ([v0.7.1](https://github.com/EddieHubCommunity/EddieBot/releases/tag/v0.7.1), today) - Discord bot for Eddie Jaoude&#39;s Discord server
+- [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot) ([v0.7.1](https://github.com/EddieHubCommunity/EddieBot/releases/tag/v0.7.1), 1 day ago) - Discord bot for Eddie Jaoude&#39;s Discord server
 - [AkhileshThite/Portfolio](https://github.com/AkhileshThite/Portfolio) ([v2.0](https://github.com/AkhileshThite/Portfolio/releases/tag/v2.0), 2 weeks ago) - This is my portfolio website created by using some html and css. Feel free to use this code.
 - [krishdevdb/reseter.css](https://github.com/krishdevdb/reseter.css) ([1.1.3](https://github.com/krishdevdb/reseter.css/releases/tag/1.1.3), 1 month ago) - Reseter.css - A Futuristic Alternative To Normalize.css And CSS Resets
 - [krishdevdb/readme-template](https://github.com/krishdevdb/readme-template) ([v1.0.2](https://github.com/krishdevdb/readme-template/releases/tag/v1.0.2), 3 months ago) - A Readme Template For Tomorrow&#39;s Opensource
