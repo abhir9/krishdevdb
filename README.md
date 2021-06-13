@@ -44,7 +44,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot) ([v0.7.1](https://github.com/EddieHubCommunity/EddieBot/releases/tag/v0.7.1), 2 days ago) - Discord bot for Eddie Jaoude&#39;s Discord server
+- [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot) ([v0.7.2](https://github.com/EddieHubCommunity/EddieBot/releases/tag/v0.7.2), today) - Discord bot for Eddie Jaoude&#39;s Discord server
 - [AkhileshThite/Portfolio](https://github.com/AkhileshThite/Portfolio) ([v2.0](https://github.com/AkhileshThite/Portfolio/releases/tag/v2.0), 2 weeks ago) - This is my portfolio website created by using some html and css. Feel free to use this code.
 - [krishdevdb/reseter.css](https://github.com/krishdevdb/reseter.css) ([1.1.3](https://github.com/krishdevdb/reseter.css/releases/tag/1.1.3), 1 month ago) - Reseter.css - A Futuristic Alternative To Normalize.css And CSS Resets
 - [krishdevdb/readme-template](https://github.com/krishdevdb/readme-template) ([v1.0.2](https://github.com/krishdevdb/readme-template/releases/tag/v1.0.2), 3 months ago) - A Readme Template For Tomorrow&#39;s Opensource
