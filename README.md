@@ -45,7 +45,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [krishdevdb/performant.js](https://github.com/krishdevdb/performant.js) ([v0.1.0](https://github.com/krishdevdb/performant.js/releases/tag/v0.1.0), today) - Create high performant website with lightning speed ⚡⚡⚡
+- [krishdevdb/performant.js](https://github.com/krishdevdb/performant.js) ([v0.1.1](https://github.com/krishdevdb/performant.js/releases/tag/v0.1.1), today) - Create high performant website with lightning speed ⚡⚡⚡
 - [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot) ([v0.7.2](https://github.com/EddieHubCommunity/EddieBot/releases/tag/v0.7.2), 5 days ago) - Discord bot for Eddie Jaoude&#39;s Discord server
 - [AkhileshThite/Portfolio](https://github.com/AkhileshThite/Portfolio) ([v2.0](https://github.com/AkhileshThite/Portfolio/releases/tag/v2.0), 3 weeks ago) - This is my portfolio website created by using some html and css. Feel free to use this code.
 - [krishdevdb/reseter.css](https://github.com/krishdevdb/reseter.css) ([1.1.3](https://github.com/krishdevdb/reseter.css/releases/tag/1.1.3), 1 month ago) - Reseter.css - A Futuristic Alternative To Normalize.css And CSS Resets
