@@ -45,11 +45,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [krishdevdb/performant.js](https://github.com/krishdevdb/performant.js) ([v0.1.0](https://github.com/krishdevdb/performant.js/releases/tag/v0.1.0), today) - Create high performant website with lightning speed ⚡⚡⚡
 - [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot) ([v0.7.2](https://github.com/EddieHubCommunity/EddieBot/releases/tag/v0.7.2), 6 days ago) - Discord bot for Eddie Jaoude&#39;s Discord server
 - [AkhileshThite/Portfolio](https://github.com/AkhileshThite/Portfolio) ([v2.0](https://github.com/AkhileshThite/Portfolio/releases/tag/v2.0), 3 weeks ago) - This is my portfolio website created by using some html and css. Feel free to use this code.
 - [krishdevdb/reseter.css](https://github.com/krishdevdb/reseter.css) ([1.1.3](https://github.com/krishdevdb/reseter.css/releases/tag/1.1.3), 1 month ago) - Reseter.css - A Futuristic Alternative To Normalize.css And CSS Resets
 - [krishdevdb/readme-template](https://github.com/krishdevdb/readme-template) ([v1.0.2](https://github.com/krishdevdb/readme-template/releases/tag/v1.0.2), 3 months ago) - A Readme Template For Tomorrow&#39;s Opensource
-- [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice) ([v0.1](https://github.com/EddieHubCommunity/hacktoberfest-practice/releases/tag/v0.1), 9 months ago) - Repo for you to raise a Pull Request for practice
 
 <br>
 
