@@ -29,11 +29,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [KrishLearned/freecodecamp](https://github.com/KrishLearned/freecodecamp) - FreeCodeCamp Projects @krishdevdb (today)
 - [krishdevdb/reseter.css](https://github.com/krishdevdb/reseter.css) - Reseter.css - A Futuristic Alternative To Normalize.css And CSS Resets (3 days ago)
 - [krishdevdb/krishdevdb.github.io](https://github.com/krishdevdb/krishdevdb.github.io) - @krishdevdb&#39;s Personal Website (6 days ago)
 - [KrishCommunity/Join](https://github.com/KrishCommunity/Join) - Join KrishCommunity Officially Here! (2 weeks ago)
 - [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot) - Discord bot for Eddie Jaoude&#39;s Discord server (2 weeks ago)
-- [hellosagar/hellosagar](https://github.com/hellosagar/hellosagar) - Sagar Khurana Portfolio (3 weeks ago)
 
 #### 🌱 My latest projects
 
