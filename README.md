@@ -31,12 +31,13 @@
 
 - [krishdevdb/reseter.css](https://github.com/krishdevdb/reseter.css) - Reseter.css - A Futuristic Alternative To Normalize.css And CSS Resets (today)
 - [KrishLearned/freecodecamp](https://github.com/KrishLearned/freecodecamp) - FreeCodeCamp Projects @krishdevdb (today)
-- [KrishCommunity/Info](https://github.com/KrishCommunity/Info) - Guidelines, Rules and Information about Krish Community (today)
+- [krishdevdb/Moderation](https://github.com/krishdevdb/Moderation) - Moderation Guidelines for the community, it runs across all of KrishCommunity (today)
 - [krishdevdb/krishdevdb.github.io](https://github.com/krishdevdb/krishdevdb.github.io) - @krishdevdb&#39;s Personal Website (1 week ago)
 - [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot) - Discord bot for Eddie Jaoude&#39;s Discord server (2 weeks ago)
 
 #### 🌱 My latest projects
 
+- [krishdevdb/Moderation](https://github.com/krishdevdb/Moderation) - Moderation Guidelines for the community, it runs across all of KrishCommunity
 - [krishdevdb/krishdevdb.github.io](https://github.com/krishdevdb/krishdevdb.github.io) - @krishdevdb&#39;s Personal Website
 - [krishdevdb/css-reset-comparision](https://github.com/krishdevdb/css-reset-comparision) - CSS Reset Comparison - A Non-Opinionated CSS Reset And Normalize Comparison
 - [krishdevdb/readme-template](https://github.com/krishdevdb/readme-template) - A Readme Template For Tomorrow&#39;s Opensource
